@@ -29,3 +29,30 @@ Do away with the develop branch altogether,
 Spawn all feature branches off master, and merge them back into master when ready,
 Version tagging should not be carried by a human, but by an automated process whenever code is pushed to live,
 These are valid points and they do result on a lighter-weight workflow. But they ignore that there are cases where you want a manual release, a negotiation of what is supposed to go into any particular version.
+
+# Git and GitHub with Briana Swift
+Git & GitHub: GitHub Workflow
+1-Branch
+2-Commit
+3-Pull Request
+4-Commit
+5-Merge
+Git & GitHub: Working Locally
+git clone
+*copies repo
+*All branches
+*All history
+git remote-v
+*origin al remote
+*other remotes
+*forks
+*upstream
+Git & GitHub: Git Status
+*Head pointer
+*Working directory
+*Stanging area
+*Compare
+Remote tracking
+Branch
+*Suggestions
+
